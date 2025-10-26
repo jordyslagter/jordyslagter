@@ -1,6 +1,6 @@
 # Hi there
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5](https://www.linkedin.com/in/jordyslagter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5)](https://www.linkedin.com/in/jordyslagter)
 
 I'm a Computer Science student [@ZuydUniversity](https://github.com/ZuydUniversity).
 
