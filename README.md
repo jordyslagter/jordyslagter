@@ -7,4 +7,4 @@ I'm a Computer Science student [@ZuydUniversity](https://github.com/ZuydUniversi
 
 I use ghostty on MacOS with [vim](https://github.com/jordyslagter/vim) and [tmux](https://github.com/jordyslagter/tmux).
 
-<3 [Rosé Pine](https://www.rosepinetheme.com)
+<3 [Catppuccin](https://catppuccin.com/)
