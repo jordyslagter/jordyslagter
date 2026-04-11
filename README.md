@@ -5,7 +5,7 @@
     <img
       src="https://img.shields.io/badge/-LinkedIn-0077B5"
       alt="LinkedIn"
-      width="24"
+      width="48"
     />
   </a>
 </p>
