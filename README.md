@@ -24,7 +24,7 @@ I regularly switch between MacOS and Fedora systems.
 
 ---
 
-### Core skills
+### 🔥 Core skills
 
 - **Software architecture** Clean Architecture, MVVM, MVC, Hexagonal Architecture
 - **Systems development** In Rust and Go
