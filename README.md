@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jordyslagter">
     <img
-      src="https://img.shields.io/badge/-LinkedIn-0077B5"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
       width="48"
     />
@@ -30,13 +30,5 @@ I regularly switch between MacOS and Fedora systems.
 - **Systems development** In Rust and Go
 - **Backend development** In Java and C#
 - **App development** In Flutter
-
----
-
-### 📈 Now for some statistics
-
-![Jordy Slagter's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordyslagter&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordyslagter)](https://github.com/jordyslagter)
 
 <!-- This README was inspired by https://github.com/rikmeijers -->
