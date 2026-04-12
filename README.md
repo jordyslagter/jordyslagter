@@ -29,6 +29,7 @@ I regularly switch between MacOS and Fedora systems.
 - **Software architecture** Clean Architecture, MVVM, MVC, Hexagonal Architecture
 - **Systems development** In Rust and Go
 - **Backend development** In Java and C#
+- **Web development** In React (Next) and Vue (Nuxt)
 - **App development** In Flutter
 
 <!-- This README was inspired by https://github.com/rikmeijers -->
