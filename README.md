@@ -20,7 +20,7 @@
 - **[Tmux](https://github.com/jordyslagter/tmux)** Allows me to have a tiling terminal setup anywhere
 - **[Fish](https://github.com/jordyslagter/fish)** Out-of-the-box modern shell
 
-I regularly switch between MacOS and Fedora systems.
+I regularly switch between MacOS and Debian systems.
 
 ---
 
